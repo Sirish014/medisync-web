@@ -1,0 +1,46 @@
+
+.analytics-card{
+
+background:white;
+
+padding:25px;
+
+border-radius:15px;
+
+display:flex;
+
+align-items:center;
+
+gap:20px;
+
+box-shadow:0 4px 15px rgba(0,0,0,.08);
+
+}
+
+.card-icon{
+
+font-size:30px;
+
+width:60px;
+height:60px;
+
+display:flex;
+justify-content:center;
+align-items:center;
+
+background:#eff6ff;
+
+border-radius:50%;
+}
+
+.analytics-card h3{
+
+font-size:28px;
+
+margin-bottom:5px;
+}
+
+.analytics-card p{
+
+color:gray;
+}
